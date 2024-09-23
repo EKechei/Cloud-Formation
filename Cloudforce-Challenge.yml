@@ -3,8 +3,6 @@ Mappings:
   RegionMap:
     us-east-1:
       "AMI": "ami-0889a44b331db0194"
-    us-west-2:
-      "AMI": "ami-0889a44b331db0194"  
 
 Resources:
   VPC:
